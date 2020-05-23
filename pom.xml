@@ -80,7 +80,7 @@
                         <version>2.2.0</version>
                         <configuration>
                             <to>
-                                <image>registry.hub.docker.com/cortizqdocker/csoftz-ci-cd-process</image>
+                                <image>cortizqdocker/csoftz-ci-cd-process</image>
                                 <tags>
                                     <tag>${project.version}</tag>
                                     <tag>latest</tag>
