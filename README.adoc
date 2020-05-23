@@ -4,3 +4,9 @@ Created: May.23/2020
 V1.0.0-May.23/2020
 
 POC for CICD based in https://www.baeldung.com/spring-boot-ci-cd
+
+This is my first attempt to this CICD thing.
+But there is a lot of knowledge to be stuided first.
+this will be defer for future tries.
+
+Mostly configuration issues and errors in building.
