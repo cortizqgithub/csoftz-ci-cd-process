@@ -10,3 +10,6 @@ But there is a lot of knowledge to be stuided first.
 this will be defer for future tries.
 
 Mostly configuration issues and errors in building.
+
+Repository Token
+CODECOV_TOKEN="9beaf286-b69f-420b-bc78-9ae110f7c66f"
